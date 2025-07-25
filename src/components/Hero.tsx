@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
         {/* Profile Image */}
         <div className="flex justify-center mb-8">
           <img
-            src="src/components/ketan.jpg"
+            src="/ketan.jpg"
             alt="Ketan Gehlot"
             className="h-32 w-32 rounded-full border-4 border-indigo-500 shadow-lg object-cover"
           />
@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12 animate-fade-in-delay-4">
         <a
-  href="src/components/resume.pdf"
+  href="/resume.pdf"
   download
   className="px-8 py-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 hover:-translate-y-1 flex items-center justify-center"
 >
