@@ -28,7 +28,6 @@ const Hero: React.FC = () => {
             className="h-32 w-32 rounded-full border-4 border-indigo-500 shadow-lg object-cover"
           />
         </div>
-
         {/* Name and Title */}
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-gray-900 via-indigo-900 to-purple-900 dark:from-white dark:via-indigo-200 dark:to-purple-200 bg-clip-text text-transparent">
           Ketan Gehlot
