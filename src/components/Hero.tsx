@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
       {/* Hero Content */}
       <div className="z-10 text-center px-4">
         {/* Profile Image */}
-        <div className="flex justify-center mb-8 py-2">
+        <div className="flex justify-center mb-8 py-5">
           <img
             src="/ketan.jpg"
             alt="Ketan Gehlot"
